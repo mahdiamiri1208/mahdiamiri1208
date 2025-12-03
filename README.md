@@ -33,7 +33,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mahdiamiri1208/github-contributions-graph/main/images/breakout-dark.svg" />
+    srcset="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/breakout-dark.svg" />
   <img alt="Breakout" 
     src="https://raw.githubusercontent.com/mahdiamiri1208/github-contributions-graph/main/images/breakout-dark.svg" />
 </picture>
