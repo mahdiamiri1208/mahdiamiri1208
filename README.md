@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Mahdi
 
-💻 **Frontend Developer** passionate about **React** & **Next.js**  
-🌱 Love building **interactive UI** and **modern web architectures**  
-⚡ Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
+• 💻 **Frontend Developer** passionate about **React** & **Next.js**  
+• 🌱 Love building **interactive UI** and **modern web architectures**  
+• ⚡ Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
 
 💻 Skills & Technologies
 ---
