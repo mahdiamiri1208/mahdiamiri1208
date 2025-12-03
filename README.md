@@ -1,3 +1,9 @@
+💻 Frontend Developer passionate about React & Next.js  
+🌱 Love building interactive UI and modern web architectures  
+🎮 Avid gamer and enjoy exploring game mechanics in web projects  
+⚡ Favorite quote: “Code is like humor. When you have to explain it, it’s bad.”
+
+
 💻 Skills & Technologies
 ---
 
