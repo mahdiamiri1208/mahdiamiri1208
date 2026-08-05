@@ -5,15 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Building+modern+web+interfaces;React+%26+Next.js+Developer;Clean+Code+%2B+Clean+UI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mahdiamiri1208">
-    <img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/mahdiamiri1208?tab=followers">
-    <img src="https://img.shields.io/github/followers/mahdiamiri1208?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
@@ -50,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-tan-46.vercel.app/api?username=mahdiamiri1208&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mahdi's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-chi-tan-46.vercel.app/api/top-langs/?username=mahdiamiri1208&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiamiri1208&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mahdi's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiamiri1208&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiamiri1208&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=mahdiamiri1208&theme=dark&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
