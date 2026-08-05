@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:000000&height=220&section=header&text=Hi,%20I'm%20Mahdi%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=55&descAlign=50" width="100%"/>
-
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Building+modern+web+interfaces+%F0%9F%92%BB;React+%26+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Turning+coffee+into+code+%E2%98%95;Clean+Code+%2B+Clean+UI+%E2%9C%A8" alt="Typing SVG" />
 </p>
@@ -70,5 +64,3 @@ const mahdi = {
 </p>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:61DAFB&height=120&section=footer" width="100%"/>
