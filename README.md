@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Building+modern+web+interfaces+%F0%9F%92%BB;React+%26+Next.js+Developer+%E2%9A%9B%EF%B8%8F;Turning+coffee+into+code+%E2%98%95;Clean+Code+%2B+Clean+UI+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/mahdiamiri1208">
-    <img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/mahdiamiri1208?tab=followers">
-    <img src="https://img.shields.io/github/followers/mahdiamiri1208?label=Followers&style=for-the-badge&color=61DAFB&logo=github" alt="followers" />
-  </a>
-</p>
-
 <br>
 
 ## 🧑‍💻 About Me
@@ -42,13 +33,6 @@ const mahdi = {
 </p>
 
 <br>
-
-## ⭐ Quick Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/mahdiamiri1208?style=for-the-badge&color=61DAFB&label=Total%20Stars" alt="total stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mahdiamiri1208&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=61DAFB" alt="public repos" />
-</p>
 
 <br>
 
