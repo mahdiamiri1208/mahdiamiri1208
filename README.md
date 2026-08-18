@@ -18,6 +18,15 @@ const mahdi = {
 
 <br>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdiamiri1208&theme=react-dark&show_icons=true&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiamiri1208&theme=react-dark&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+</p>
+
+<br>
+
 ## 🛠️ Skills & Technologies
 
 <p align="center">
@@ -34,16 +43,12 @@ const mahdi = {
 
 <br>
 
-<br>
-
 ## 🎮 GitHub Breakout
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/breakout-dark.svg?v=2" />
-    <img alt="Breakout"
-      src="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/breakout-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/breakout-dark.svg?v=2" />
+    <img alt="Breakout" src="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/breakout-dark.svg?v=2" />
   </picture>
 </p>
 
