@@ -18,6 +18,14 @@ const mahdi = {
 
 <br>
 
+## 👀 My Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=Profile%20Visitors&color=61DAFB&style=for-the-badge" alt="Profile Visitors" />
+</p>
+
+<br>
+
 ## 🛠️ Skills & Technologies
 
 <p align="center">
@@ -36,3 +44,4 @@ const mahdi = {
 </p>
 
 <br>
+
