@@ -15,27 +15,18 @@ const mahdi = {
     openTo: "Collaborating on frontend & full-stack projects 🤝",
 };
 ```
-<br>
+## 📊 Profile Insights
 
-## 🖥️ Visitor Log
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=👁%20VISITORS&color=61DAFB&style=flat-square"
-    alt="Visitors"
-  />
-</p>
-
-<p align="center">
-  <samp>
-    <b>$ whoami</b><br>
-    mahdi<br><br>
-    <b>$ echo "Thanks for stopping by!"</b><br>
-    Thanks for stopping by! 🚀
-  </samp>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mahdiamiri1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiamiri1208&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" height="165"/>
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=Profile+Views&color=61DAFB&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
+
+</div>
 
 ## 🛠️ Skills & Technologies
 
