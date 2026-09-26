@@ -19,8 +19,8 @@ const mahdi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahdiamiri1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiamiri1208&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahdiamiri1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdiamiri1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9" alt="Top Languages" height="165"/>
 
 <br>
 
