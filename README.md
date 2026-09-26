@@ -21,7 +21,17 @@ const mahdi = {
 ## 👀 My Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=Profile%20Visitors&color=61DAFB&style=for-the-badge" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=PROFILE%20VIEWS&color=61DAFB&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mahdiamiri1208?label=Followers&style=flat-square&logo=github&logoColor=white" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mahdiamiri1208?label=Stars&style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! ☕💻</i>
 </p>
 
 <br>
