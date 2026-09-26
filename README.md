@@ -15,24 +15,27 @@ const mahdi = {
     openTo: "Collaborating on frontend & full-stack projects 🤝",
 };
 ```
-
 <br>
 
-## 👁️ Profile Visitors
+## 🖥️ Visitor Log
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=&color=61DAFB&style=flat-square"
-    alt="Profile Visitors"
+    src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=👁%20VISITORS&color=61DAFB&style=flat-square"
+    alt="Visitors"
   />
 </p>
 
 <p align="center">
-  <samp>Thanks for visiting my profile ✨</samp>
+  <samp>
+    <b>$ whoami</b><br>
+    mahdi<br><br>
+    <b>$ echo "Thanks for stopping by!"</b><br>
+    Thanks for stopping by! 🚀
+  </samp>
 </p>
 
 <br>
-
 
 ## 🛠️ Skills & Technologies
 
