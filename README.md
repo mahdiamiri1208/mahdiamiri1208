@@ -31,7 +31,7 @@ const mahdi = {
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite,figma,git,c,java,vscode&perline=6" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite,figma,nodejs,npm,git,c,java,vscode&perline=6" alt="skills" />
 </p>
 
 <br>
