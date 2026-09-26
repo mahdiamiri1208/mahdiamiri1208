@@ -22,16 +22,9 @@ const mahdi = {
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=👀%20MY%20VISITORS&fontSize=22&fontColor=61DAFB&fontAlignY=35&desc=Thanks%20for%20stopping%20by!&descSize=14&descAlignY=65&descColor=FFFFFF"
-    width="100%"
+    src="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/visitors.svg"
     alt="My Visitors"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=PROFILE%20VISITORS&color=61DAFB&style=for-the-badge"
-    alt="Profile Visitors"
+    width="800"
   />
 </p>
 
