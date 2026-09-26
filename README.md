@@ -18,29 +18,25 @@ const mahdi = {
 
 <br>
 
-## 👀 My Visitors
+<h2 align="center">👀 My Visitors</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="700">
-
+    <td align="center">
       <br>
-
-      <h3>👀 &nbsp; MY VISITORS</h3>
-
+      <h3>👁️ &nbsp; PROFILE VISITORS</h3>
+      <img
+        src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=VISITORS&color=61DAFB&style=for-the-badge"
+        alt="Profile Visitors"
+      />
+      <br><br>
       <p>
-        <img
-          src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=PROFILE%20VIEWS&color=61DAFB&style=flat-square"
-          alt="Profile Visitors"
-        />
+        <b>Thanks for stopping by! 🚀</b>
       </p>
-
       <p>
-        <sub>Thanks for stopping by! 🚀</sub>
+        <sub>Feel free to explore my projects.</sub>
       </p>
-
       <br>
-
     </td>
   </tr>
 </table>
