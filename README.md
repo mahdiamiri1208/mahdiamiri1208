@@ -20,13 +20,30 @@ const mahdi = {
 
 ## 👀 My Visitors
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mahdiamiri1208/mahdiamiri1208/main/images/visitors.svg"
-    alt="My Visitors"
-    width="800"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="700">
+
+      <br>
+
+      <h3>👀 &nbsp; MY VISITORS</h3>
+
+      <p>
+        <img
+          src="https://komarev.com/ghpvc/?username=mahdiamiri1208&label=PROFILE%20VIEWS&color=61DAFB&style=flat-square"
+          alt="Profile Visitors"
+        />
+      </p>
+
+      <p>
+        <sub>Thanks for stopping by! 🚀</sub>
+      </p>
+
+      <br>
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
